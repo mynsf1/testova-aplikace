@@ -4,7 +4,7 @@ Module Program
     Sub Main(args As String())
         Console.Clear()
         Console.BackgroundColor = ConsoleColor.Black
-        Console.ForegroundColor = ConsoleColor.Cyan
+        Console.ForegroundColor = ConsoleColor.Magenta
         Console.Clear()
         Console.WriteLine("    
 
