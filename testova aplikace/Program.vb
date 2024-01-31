@@ -3,12 +3,14 @@ Imports System
 Module Program
     Sub Main(args As String())
         Console.Clear()
-        Console.BackgroundColor = ConsoleColor.Cyan
-        Console.ForegroundColor = ConsoleColor.DarkCyan
+        Console.BackgroundColor = ConsoleColor.Black
+        Console.ForegroundColor = ConsoleColor.Cyan
+        Console.Clear()
         Console.WriteLine("    
 
       
                    uwu uwu meow")
-        Console.Clear()
+        Console.ReadKey()
+
     End Sub
 End Module
